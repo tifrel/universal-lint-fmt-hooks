@@ -1,5 +1,5 @@
-dirty-rust/target
-dirty-rust/Cargo.lock
+rust/target
+rust/Cargo.lock
 
 node_modules/
 package-lock.json
